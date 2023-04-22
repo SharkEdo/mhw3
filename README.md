@@ -8,3 +8,4 @@ Terzo mini-homework
 
 ### General Info
 ***
+Ho caricato i file HTML, CSS e JS come da specifiche
