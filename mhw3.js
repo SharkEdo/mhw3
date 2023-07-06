@@ -72,8 +72,8 @@ function onTokenResponseSp(response)
 }
 
 // OAuth credentials --- NON SICURO!
-const client_id = '792e0c50d0c948d185706c409de54611';
-const client_secret = '13ce42c068274989be6dc789b0a336a3';
+const client_id = 'enter your credentials';
+const client_secret = 'enter your credentials';
 // Dichiara variabile token
 let token;
 // All'apertura della pagina, richiediamo il token
